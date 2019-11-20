@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 
 	"name": "albert",
-	"description": "The revolutionary tool for accessible reading.",
+	"description": "The accessibility tool for people with Dyslexia.",
 	"version": "0.2",
 
 	"browser_action": {
